@@ -1,5 +1,5 @@
 {
-    "name": "my-node-app",
+    "name": "venom",
     "version": "1.0.0",
     "description": "My Node.js project",
     "main": "server.js",
